@@ -1,0 +1,49 @@
+{
+  "name": "angular2-base",
+  "version": "0.0.1",
+  "description": "A base project for Angular 2 apps with Gulp",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
+    "lite": "lite-server",
+    "clean": "cd app && find . -name \"*.js\"  -delete",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w" ,
+    "prod": "gulp"
+  },
+  "author": "Marco Pokorski Stefani <marco.stefani@technotag.com.br>",
+  "dependencies": {
+    "@angular/common": "latest",
+    "@angular/compiler": "latest",
+    "@angular/core": "latest",
+    "@angular/http": "latest",
+    "@angular/platform-browser": "latest",
+    "@angular/platform-browser-dynamic": "latest",
+    "@angular/router": "latest",
+    "@types/core-js": "latest",
+    "bootstrap": "latest",
+    "core-js": "latest",
+    "del": "latest",
+    "gulp-install": "latest",
+    "gulp": "latest",
+    "merge-stream": "latest",
+    "gulp-typescript": "latest",
+    "gulp-uglify": "latest",
+    "gulp-mocha": "latest",
+    "gulp-concat": "latest",
+    "gulp-imagemin": "latest",
+    "reflect-metadata": "latest",
+    "rxjs": "latest",
+    "systemjs": "latest",
+    "systemjs-builder": "latest",
+    "typescript": "latest",
+    "zone.js": "latest"
+  },
+  "devDependencies": {
+    "concurrently": "latest",
+    "gulp-install": "latest",
+    "lite-server": "latest",
+    "typescript": "latest"
+  }
+}
