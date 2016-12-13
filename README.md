@@ -1,4 +1,4 @@
-# angular2-base
+# angular2-webapp
 
 A simple base project for Angular 2 apps, using Gulp to automate tasks and SystemJS to bundle the app.
 
