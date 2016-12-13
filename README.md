@@ -3,10 +3,14 @@
 A simple base project for Angular 2 apps, using Gulp to automate tasks and SystemJS to bundle the app.
 
 This is a biggest example are used...
-NPM - Package manager. Installs, publishes and manages node programs.
-GULP - Build system automating tasks: minification and copying of all JavaScript files, static images, capable of watching files to automatically rerun the task when a file ...
-Angular2 - A powerfull framework for front-side, Angular is a development platform for building mobile and desktop web applications.
-Bootstrap - Amazing responsive framework, Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web).
+
+**NPM** - Package manager. Installs, publishes and manages node programs.
+
+**GULP** - Build system automating tasks: minification and copying of all JavaScript files, static images, capable of watching files to automatically rerun the task when a file ...
+
+**Angular2** - A powerfull framework for front-side, Angular is a development platform for building mobile and desktop web applications.
+
+**Bootstrap** - Amazing responsive framework, Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web).
 
 having everything you need: http templates, http get example, router examples...
 Be happy
