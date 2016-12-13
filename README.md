@@ -1,9 +1,16 @@
 # angular2-base
 
 A simple base project for Angular 2 apps, using Gulp to automate tasks and SystemJS to bundle the app.
-This project use
 
-![Demo View](./docs/demo.png)
+This is a biggest example are used...
+NPM - Package manager. Installs, publishes and manages node programs.
+GULP - Build system automating tasks: minification and copying of all JavaScript files, static images, capable of watching files to automatically rerun the task when a file ...
+Angular2 - A powerfull framework for front-side, Angular is a development platform for building mobile and desktop web applications.
+Bootstrap - Amazing responsive framework, Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web).
+
+having everything you need: http templates, http get example, router examples...
+Be happy
+
 
 ## Usage
 
@@ -23,6 +30,5 @@ You can have the tests auto-run when tests or ts files change by running the `gu
 
 For a production setup, uncomment the lines in `main.ts` to put Angular in production mode. Then, run the minification task to minify vendor files `gulp minify`.
 
-## Auto-Refresh when Developing
 
-You may run `gulp watch` in a stand-alone terminal to have the output automatically updated when you save changes.
+`Based on https://github.com/kiswa/angular2-base.git`
